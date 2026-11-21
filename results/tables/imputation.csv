@@ -1,0 +1,6 @@
+imputation,share_missing,share_missing_below_lod,rmse_below_lod,bias_below_lod,rmse_random_missing,bias_random_missing,fdp,power
+feature median,0.046,0.576,0.826,0.728,0.509,-0.006,0.042,0.984
+half minimum,0.046,0.576,1.335,-1.266,2.319,-2.25,0.033,0.95
+k nearest neighbours,0.046,0.576,0.846,0.744,0.521,-0.0,0.057,0.991
+left-censored draw,0.046,0.576,0.633,-0.447,1.568,-1.455,0.047,0.986
+hybrid by missingness pattern,0.046,0.576,0.71,-0.272,0.727,-0.203,0.047,0.995
